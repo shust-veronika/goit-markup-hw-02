@@ -1,5 +1,68 @@
 body {
     font-family: "Roboto", sans-serif;
+    font-weight: regular;
     font-size: 16px;
-    line-height: 1.5;;
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 1,07;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
+
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 2%;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+.nav-link {
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.page {
+    background-color: #2E2F42;
+}
+
+.main-btn {
+    background-color: #404bbf;
+}
+
+.content-menu {
+    background-color: #ffffff;
+}
+
+.content-team {
+    background-color: #f4f4fd;
+}
+
+.user-img {}
+
+.content-portfolio {
+    background-color: #ffffff;
+}
+
+.img {}
+
+.footer {
+    background-color: #2E2F42;
 }
