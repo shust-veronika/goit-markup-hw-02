@@ -101,7 +101,10 @@ p {
         letter-spacing: 0.04em;
 }
 
-.main-btn:hover
+.main-btn:hover {
+    background-color: #404bbf;
+}
+
 .main-btn:focus {
     background-color: #404bbf;
 }
