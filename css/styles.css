@@ -3,6 +3,8 @@ body {
     font-weight: regular;
     font-size: 16px;
     line-height: 1.5;
+    color: #434455;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -27,6 +29,10 @@ h3 {
     letter-spacing: 2%;
 }
 
+p {
+    font-size: 16px;
+}
+
 .logo {
     text-decoration: none;
 }
@@ -35,8 +41,10 @@ h3 {
     text-decoration: none;
 }
 
-.link {
+.link .link:hover 
+.link .link:focus {
     text-decoration: none;
+    color: #404BBF;
 }
 
 .page {
@@ -45,6 +53,7 @@ h3 {
 
 .main-btn {
     background-color: #404bbf;
+    font-size: 16px;
 }
 
 .content-menu {
