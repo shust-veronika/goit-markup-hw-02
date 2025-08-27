@@ -3,7 +3,6 @@ body {
     font-weight: regular;
     font-size: 16px;
     line-height: 1.5;
-    color: #434455;
     background-color: #ffffff;
 }
 
@@ -13,6 +12,7 @@ h1 {
     font-size: 56px;
     letter-spacing: 2%;
     line-height: 1,07;
+    color: #ffffff;
 }
 
 h2 {
@@ -41,9 +41,12 @@ p {
     text-decoration: none;
 }
 
-.link .link:hover 
-.link .link:focus {
+.link {
     text-decoration: none;
+    color: #2E2F42;
+}
+
+.link:hover {
     color: #404BBF;
 }
 
@@ -52,8 +55,13 @@ p {
 }
 
 .main-btn {
-    background-color: #404bbf;
+    background-color: #4D5AE5;
     font-size: 16px;
+    cursor: pointer;
+}
+
+.main-btn:hover {
+    background-color: #404bbf;
 }
 
 .content-menu {
@@ -74,4 +82,8 @@ p {
 
 ul {
     list-style-type: none;
+}
+
+.footer-item {
+    color:#f4f4fd;
 }
