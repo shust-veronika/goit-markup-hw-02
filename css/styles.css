@@ -56,6 +56,10 @@ p {
         letter-spacing: 0.02em;
 }
 
+.nav-link:hover {
+    color: #404BBF;
+}
+
 .link {
     text-decoration: none;
     color: #2E2F42;
