@@ -7,14 +7,14 @@ body {
     color: #434455;
 }
 
-h1 {
+.item {
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    letter-spacing: 0.02em;
-    line-height: 1.07;
-    color: #ffffff;
-    text-align: center;
+        font-weight: bold;
+        font-size: 56px;
+        letter-spacing: 0.02em;
+        line-height: 1.07;
+        color: #ffffff;
+        text-align: center;
 }
 
 h2 {
@@ -68,7 +68,8 @@ p {
         letter-spacing: 0.02em;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.nav-link:focus {
     color: #404BBF;
 }
 
@@ -81,7 +82,8 @@ p {
         letter-spacing: 0.02em;
 }
 
-.link:hover {
+.link:hover,
+.link:focus {
     color: #404BBF;
 }
 
@@ -99,7 +101,7 @@ p {
         letter-spacing: 0.04em;
 }
 
-.main-btn:hover,
+.main-btn:hover
 .main-btn:focus {
     background-color: #404bbf;
 }
@@ -154,4 +156,8 @@ ul {
 
 .contacts {
     font-style: normal;
+}
+
+.list {
+    background-color: #ffffff;
 }
