@@ -64,7 +64,7 @@ p {
         color: #4D5AE5;
 }
 
-.nav-link {
+.nav-list {
     text-decoration: none;
     font-weight: 500;
     color: #2E2F42;
@@ -72,36 +72,12 @@ p {
         letter-spacing: 0.02em;
 }
 
-.nav-portfolio {
-    text-decoration: none;
-        font-weight: 500;
-        color: #2E2F42;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.nav-cont {
-    text-decoration: none;
-        font-weight: 500;
-        color: #2E2F42;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
 
 .nav-link:hover,
 .nav-link:focus {
     color: #404BBF;
 }
 
-.nav-portfolio:hover,
-.nav-portfolio:focus {
-    color: #404BBF;
-}
-
-.nav-cont:hover,
-.nav-cont:focus {
-    color: #404BBF;
-}
 
 .link-mailto {
     text-decoration: none;
