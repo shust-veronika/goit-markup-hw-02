@@ -138,32 +138,11 @@ ul {
     color:#f4f4fd;
 }
 
-.main-features-sta {
+.caption {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
-}
-
-.main-features-punct {
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.main-features-dilig {
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.main-features-techno {
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
 }
 
 .main-features {
@@ -316,34 +295,10 @@ font-weight: 500;
 }
 
 
-.text-strate {
+.text-featu {
     font-size: 16px;
         color: #434455;
         font-weight: 400;
         line-height: 1.5;
         letter-spacing: 0.02em;
-}
-
-.text-punct {
-font-size: 16px;
-    color: #434455;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.text-dilig {
-font-size: 16px;
-    color: #434455;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.text-techno {
-font-size: 16px;
-    color: #434455;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
 }
