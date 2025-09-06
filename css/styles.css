@@ -153,42 +153,7 @@ font-weight: 500;
 }
 
 
-.main-features-ban {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
-
-.main-features-cas {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
-
-.main-features-medi {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
-
-.main-features-taxi {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
-
-.main-features-scr {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-}
-
-.main-features-onli {
+.main-title {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -238,47 +203,7 @@ font-weight: 500;
     background-color: #FFFFFF;
 }
 
-.text-app {
-    font-size: 16px;
-        color: #434455;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.text-cash {
-    font-size: 16px;
-        color: #434455;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.text-medi {
-    font-size: 16px;
-        color: #434455;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.text-tax {
-    font-size: 16px;
-        color: #434455;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.text-desi {
-    font-size: 16px;
-        color: #434455;
-        font-weight: 400;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-}
-
-.text-market {
+.text-title {
     font-size: 16px;
         color: #434455;
         font-weight: 400;
